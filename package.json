@@ -19,13 +19,13 @@
     "cordova-plugin-androidx": "^1.0.2",
     "cordova-plugin-androidx-adapter": "^1.1.1",
     "cordova-plugin-firebasex": "^6.0.2",
-    "pongpong.helloworld": "file:../plugin/HelloWorld"
+    "pongpong.helloworld": "git+https://github.com/jef15938/myCordovaPlugin.git"
   },
   "cordova": {
     "plugins": {
-      "pongpong.helloworld": {},
       "cordova-plugin-firebasex": {},
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "pongpong.helloworld": {}
     },
     "platforms": [
       "android",
