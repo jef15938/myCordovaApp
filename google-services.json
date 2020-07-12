@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "807383540884",
+    "firebase_url": "https://helloworld-710b6.firebaseio.com",
+    "project_id": "helloworld-710b6",
+    "storage_bucket": "helloworld-710b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807383540884:android:2339bacf4a88b8f208c081",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807383540884-dkjv50td5apubjbj6pdrki9u2emr8m5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__dcC-AKhmFeKLE6cToTZONiL44rSxg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807383540884-dkjv50td5apubjbj6pdrki9u2emr8m5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807383540884-iriu6o1qfjjjspm6j3kckscfcdn4e4jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pongpong.myapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807383540884:android:7bc1f1145846914f08c081",
+        "android_client_info": {
+          "package_name": "com.pongpong.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807383540884-dkjv50td5apubjbj6pdrki9u2emr8m5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__dcC-AKhmFeKLE6cToTZONiL44rSxg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807383540884-dkjv50td5apubjbj6pdrki9u2emr8m5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807383540884-iriu6o1qfjjjspm6j3kckscfcdn4e4jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pongpong.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
